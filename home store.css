@@ -1,0 +1,79 @@
+.button{
+    float: left;
+    margin-left: 131px;
+    font-size: 19px;
+    margin-top:57px;
+    width: 114px;
+}
+.heading{
+    margin-left:257px;
+    font-size: 30px;
+    margin-top: 59px;
+}
+.heading-2 {
+    font-size: 25px;
+    margin-left: 108px;
+    padding: 16px;
+}
+.star{
+    margin-left: 301px;
+    margin-top:-43px; 
+} 
+.checked{
+    color: orange;
+}
+.price {
+    margin-top: 7px;
+    font-size: 25px;
+    margin-left: 100px;
+    padding: 10px;
+}
+.button-2 {
+    float: left;
+    margin-left: 319px;
+    font-size: 19px;
+    margin-top: -44px;
+    width: 90px;
+}
+.home-theatre2{
+    height:175px;
+    width:182px;
+    padding: 12px;
+    border: 1px solid;
+    margin-top: 7px;
+    float: left;
+    margin-left: 180px;
+}
+ .home-theatre3, .home-theatre4{
+    height:175px;
+    width:182px;
+    float: left;
+    margin-left:18px;
+    padding: 12px;
+    border: 1px solid;
+    margin-top: 7px;
+}
+.a{
+    float: left;
+}
+.heading-3{
+    font-size: 23px;
+    margin-left: 83px;
+    margin-top: 24px;
+    padding: 40px;
+}
+.heading-4, .heading-5, .heading-6, .heading-7, .heading-8{
+    font-size: 20px;
+    margin-left: 130px;
+    padding: 5px;
+}
+.heading-9{
+    font-size: 23px;
+    margin-left:76px;
+    padding:40px;
+}
+.description{
+    margin-left: 135px;
+    font-size: 18px;
+}
+

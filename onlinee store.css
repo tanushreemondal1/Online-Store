@@ -1,0 +1,93 @@
+.button{
+    float: left;
+    margin-left: 176px;
+    font-size: 19px;
+    margin-top: 50px;
+}
+.desktop {
+    height: 210px;
+    width: 239px;
+    /* float: left; */
+    /* margin-right: 15px; */
+    /* margin-left: 115px; */
+    padding: 3px;
+}
+.heading{
+    margin-left:257px;
+    font-size: 30px;
+    margin-top:50px;
+}
+.description{
+    margin-right: 20px;
+    padding:20px 20px 20px 20px;
+    /*width: 913px; */
+    margin-bottom: 30px;
+    margin-left: 120px;
+}
+.offer{ 
+    font-size:25px; 
+    width: 564px; 
+    margin-left:325px;
+}
+.a{
+    font-size: 20px;
+    margin-left: 126px;
+}
+.A, .B, .C{
+    padding:5px;
+    border: 1px solid;
+}
+.heading-2, .heading-3, .heading-4{
+    font-size: 26px;
+}
+.heading-2{ 
+    text-align: center;
+    background: #b9c3c3;
+    margin: 0px;
+    border: 1px solid;
+}
+.heading-3{
+    margin-left: 63px;
+    margin: 0px;
+    text-align: center;  
+    background: #b9c3c3;
+    border: 1px solid;
+}
+.heading-4{
+    margin-left:50px;
+    text-align: center;
+    background: #b9c3c3;
+    margin: 0px;
+    border: 1px solid;
+}
+.card-1, .card-2, .card-3{
+    max-width: 236px;
+    float: left; 
+    padding:1px;
+} 
+.home-theatre{
+    height: 190px;
+    width: 220px;
+}
+.camera{
+    height: 190px;
+    width: 220px;
+}
+.laptop{
+    height: 209px;
+    width: 220px;   
+}
+.checked{
+    color: orange;
+}
+.fa {
+    font-size: 25px;
+  }
+.price, .price1, .price2{
+    text-align: right;
+    padding: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
